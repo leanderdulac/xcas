@@ -1,0 +1,3 @@
+package: github.com/drrzmr/xcas
+import:
+- package: github.com/gocql/gocql
